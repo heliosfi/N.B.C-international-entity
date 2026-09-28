@@ -26,16 +26,22 @@ against the primary source, it is flagged — not edited.
   https://deepmind.google/research/publications/157938/
 - Evaluation resources:
   https://github.com/google-deepmind/dangerous-capability-evaluations/blob/HEAD/README.md
-- UK AISI Inspect tool — source-repo link not yet confirmed against a primary
-  page; listed here as UNCONFIRMED until it is.
+- UK AISI Inspect — GOV.UK release, 10 May 2024 (confirmed primary; platform made
+  available to the global community under an open-source licence):
+  https://www.gov.uk/government/news/ai-safety-institute-releases-new-ai-safety-evaluations-platform
+- Note: the GitHub path UKGovernmentBEIS/inspect_ai is corroborated by independent
+  reviews — re-check it against the release page before citing it as primary.
 
 ## 04 — WHO GACVS (2025)
 
 - WHO statement, published 11 Dec 2025 (committee discussed 27 Nov 2025):
   https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism
-- Flag: the draft's "49th meeting" and "11 countries" details were not confirmed
-  against the WHO statement, which says "multiple countries." Held as-is pending
-  the verification pass.
+- Full meeting report, WER Nos. 9/10 (2026), 101, 37–42 — confirms the 49th meeting,
+  held hybrid 27–28 November 2025:
+  https://www.who.int/publications/i/item/who-wer1019-10-37-42
+- Note: the WHO statement says "multiple countries"; the "11 countries" count is
+  attributed to the WER report text and has not been independently re-read here.
+  The five summaries are unchanged.
 
 ## 05 — House Oversight Surveillance Pricing (2026)
 
