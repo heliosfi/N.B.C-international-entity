@@ -1,8 +1,8 @@
 # SOURCES
 
-Verified source links for each public record in this repository.
-Links confirmed live 2026-09-28. Where a draft claim could not be confirmed
-against the primary source, it is flagged — not edited.
+Source links for each public record in this repository.
+The Inspect repository link and WHO country count were checked against primary
+source pages on 2026-09-28; summary 04 now states the count's exact scope.
 
 ## 01 — Church Committee (1975-1976)
 
@@ -29,8 +29,9 @@ against the primary source, it is flagged — not edited.
 - UK AISI Inspect — GOV.UK release, 10 May 2024 (confirmed primary; platform made
   available to the global community under an open-source licence):
   https://www.gov.uk/government/news/ai-safety-institute-releases-new-ai-safety-evaluations-platform
-- Note: the GitHub path UKGovernmentBEIS/inspect_ai is corroborated by independent
-  reviews — re-check it against the release page before citing it as primary.
+- UK AI Security Institute's Inspect page identifies the project's source repository:
+  https://github.com/UKGovernmentBEIS/inspect_ai
+  https://www.aisi.gov.uk/blog/open-sourcing-our-testing-framework-inspect
 
 ## 04 — WHO GACVS (2025)
 
@@ -39,9 +40,10 @@ against the primary source, it is flagged — not edited.
 - Full meeting report, WER Nos. 9/10 (2026), 101, 37–42 — confirms the 49th meeting,
   held hybrid 27–28 November 2025:
   https://www.who.int/publications/i/item/who-wer1019-10-37-42
-- Note: the WHO statement says "multiple countries"; the "11 countries" count is
-  attributed to the WER report text and has not been independently re-read here.
-  The five summaries are unchanged.
+- WHO GACVS statement, 11 Dec 2025: identifies 31 primary research studies and
+  says 20 of them originated from 11 different countries; this supports the
+  country count in summary 04, but does not say all 31 came from 11 countries:
+  https://www.who.int/news/item/11-12-2025-statement-gacvs-vaccines-autism
 
 ## 05 — House Oversight Surveillance Pricing (2026)
 
