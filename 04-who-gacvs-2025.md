@@ -1,6 +1,6 @@
 # 04 — WHO GACVS (2025)
 
-Scope: 49th meeting, 27-28 Nov 2025, reviewed 31 studies Jan 2010–Aug 2025 across 11 countries.
+Scope: 49th meeting, 27-28 Nov 2025. Its review covered 31 primary studies published Jan 2010–Aug 2025; WHO says 20 of the 31 originated from 11 countries.
 
 Key finding: "Upon comprehensive review... the Committee reaffirmed... that there is no evidence of a causal relationship between vaccines and ASD."
 
